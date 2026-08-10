@@ -1,0 +1,3 @@
+[submodule "rl_tools"]
+	path = rl_tools
+	url = https://github.com/rl-tools/rl-tools.git
