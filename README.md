@@ -24,6 +24,12 @@
 <img src="https://github.com/rl-tools/docs.hyperdrone.dev/blob/main/assets/hyperdrone_throughput.gif" alt="animated" width='350'/>
 </div>
 
+<div align="center" >
+<a href="https://youtu.be/rc3E-GuLqDw" rel="Link to video"><img src="https://github.com/rl-tools/docs.hyperdrone.dev/blob/main/assets/thumbnail.jpeg" width='450'/></a>
+</div>
+</div>
+<br>
+
 
 ## Quick Start
 ```sh
