@@ -19,6 +19,10 @@
 </a>
 </p>
 
+<div align="center" >
+<img src="https://github.com/rl-tools/docs.hyperdrone.dev/blob/main/assets/hyperdrone_modalities.gif" alt="animated" width='350'/>
+</div>
+
 
 ## Quick Start
 ```sh
