@@ -33,7 +33,7 @@
 
 ## Quick Start
 ```sh
-pip install hyperdrone[example]
+pip install hyperdrone[examples]
 ```
 Benchmark your GPU:
 ```sh
