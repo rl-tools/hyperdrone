@@ -29,6 +29,7 @@
 ```sh
 pip install hyperdrone[example]
 python3 -m hyperlux.examples.benchmark
+python3 -m hyperdrone.examples.spy
 ```
 ## Documentation
 
