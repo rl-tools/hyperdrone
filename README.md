@@ -30,7 +30,9 @@
 pip install hyperdrone[example]
 python3 -m hyperlux.examples.benchmark
 ```
+## Documentation
 
+Please check out the documentation at [docs.hyperdrone.dev](https://docs.hyperdrone.dev)
 
 ## Citing
 When using our code/setup in an academic work please cite our publication using the following Bibtex citation:
