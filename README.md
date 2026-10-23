@@ -28,8 +28,14 @@
 ## Quick Start
 ```sh
 pip install hyperdrone[example]
+```
+Benchmark your GPU:
+```sh
 python3 -m hyperlux.examples.benchmark
-python3 -m hyperdrone.examples.spy
+```
+**HyperDrone Spy** is the UI that lets you peek into HyperDrone environments. Here, 4 agents share a scene (for perf) but don't see each other (e.g. for single-agent RL). HyperDrone supports flexible configurations (e.g. multi-agent without self-occlusion). 
+```sh
+python3 -m hyperdrone.examples.spy 
 ```
 ## Documentation
 
