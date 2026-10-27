@@ -34,7 +34,7 @@
 #### Ubuntu
 ```sh
 apt update
-apt install git cmake python3-dev python3-pip python3-venv build-essential
+apt install git cmake curl python3-dev python3-pip python3-venv build-essential
 ```
 - Nvidia GPUs / **CUDA**: Install CUDA toolkit and set environtment variable `CUDACXX={cuda_toolkit_path}/bin/nvcc`
 - Other GPUs / **Vulkan**: `apt install libvulkan-dev glslang-tools`
