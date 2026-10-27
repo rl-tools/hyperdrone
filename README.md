@@ -30,6 +30,18 @@
 </div>
 <br>
 
+## Requirements
+#### Ubuntu
+```sh
+apt update
+apt install git cmake python3-dev build-essential
+```
+- Nvidia GPUs / **CUDA**: Install CUDA toolkit and set environtment variable `CUDACXX={cuda_toolkit_path}/bin/nvcc`
+- Other GPUs / **Vulkan**: `apt install libvulkan-dev glslang-tools`
+#### macOS
+```sh
+brew install python cmake
+```
 
 ## Quick Start
 ```sh
@@ -41,7 +53,7 @@ python3 -m hyperlux.examples.benchmark
 ```
 **HyperDrone Spy** is the UI that lets you peek into HyperDrone environments. Here, 4 agents share a scene (for perf) but don't see each other (e.g. for single-agent RL). HyperDrone also supports flexible configurations (e.g. multi-agent without self-occlusion). 
 ```sh
-python3 -m hyperdrone.examples.spy 
+python3 -m hyperdrone.examples.spy
 ```
 ## Documentation
 
